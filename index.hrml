@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <body>
+    <h1>Clock</h1>
+    <div>
+        <span id="hour"></span>
+        :<span id="minute"></span>
+        :<span id="second"></span>
+    </div>
+    <h3>Number systems</h3>
+    <div>
+        base<span id="hour_base"></span>
+        base<span id="min_base"></span>
+        base<span id="sec_base"></span>
+    </div>
+    <script src = "radixclock.js"></script>
+    </body>
+</html>
